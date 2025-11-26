@@ -1,0 +1,11 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+*.log 
+*.sqlite 
+*.ipynb_checkpoints 
+*.tif 
+*.osm.pbf 
+*.gpkg 
