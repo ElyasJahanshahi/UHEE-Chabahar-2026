@@ -1,2 +1,5 @@
+*.osm.pbf filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.gpkg filter=lfs diff=lfs merge=lfs -text
 01_Data_Raw.mp4 !text !filter !merge !diff
 01_Data_Raw.mp4 filter=lfs diff=lfs merge=lfs -text
